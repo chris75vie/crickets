@@ -48,4 +48,4 @@ Most existing SuperCollider insect code is still based on Farnell's generic reci
 
 ## Licence
 
-TBD
+[GPL-3.0](LICENSE)
